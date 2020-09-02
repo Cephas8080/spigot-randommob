@@ -1,0 +1,11 @@
+name: Cephas
+version: ${project.version}
+main: com.random.mob.cephas.Cephas
+authors: [ cephas ]
+
+description: Seen
+commands:
+  randmob:
+    description: spawn a random mob at the player.
+    usage: /<command>
+    aliases: randommob
