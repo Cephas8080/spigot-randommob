@@ -1,5 +1,6 @@
 a minecraft Spigot command that use to spawn random mob
 <h2>How to use this plugin:</h2>
+download from here or go to https://www.spigotmc.org/resources/randommob.83427/</br>
 put it in the Plugin folder
 <img src="/randommob/file.png">
 If you install correctly, you should see:
